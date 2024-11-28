@@ -11,12 +11,6 @@ Virtual Drawing is a Python-based project that uses hand detection to create dra
 
 ---
 
-## Demo
-
-[Add a GIF or screenshot of your application in action.]
-
----
-
 ## Installation
 
 Follow these steps to set up and run the Virtual Drawing project:
